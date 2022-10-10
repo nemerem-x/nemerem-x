@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nemerem-x
+- 👀 I’m interested in a Frontend Developer Role
+- 🌱 I'm good with Javascript, React, HTML5/CSS3, Figma, Git
+- 💞️ I’m looking to collaborate on any frontend engineering projects
+- 📫 You can reach me @ pilotprecious@yahoo.co.uk
