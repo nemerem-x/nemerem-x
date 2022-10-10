@@ -3,4 +3,4 @@
 - 🌱 I'm good with Javascript, React, HTML5/CSS3, Git, Figma, Adobe XD, Illustrator, Photoshop, Cinema4d.
 - 💞️ I’m looking to collaborate on any frontend engineering projects
 - 📫 You can reach me @ pilotprecious@yahoo.co.uk
-- My portfolio site - www.tinyurl.com/nemerem.com
+- My portfolio site - www.tinyurl.com/nemerem
