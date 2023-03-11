@@ -7,4 +7,4 @@
 - My portfolio site - www.tinyurl.com/nemerem
 
 
-Learning TYPESCRIPT (quite confusing but I got it :D )
+- 👀 Learning TYPESCRIPT
