@@ -1,7 +1,49 @@
-- 👋 Hi, I’m @nemerem-x
-- 🌱 Tech Stack: JavaScript, TypeScript, React, Next.js, React Query, Tailwindcss, Firebase, Recoil, Github, Git, HTML5/CSS3, Vite.
-- 🌱 BE Knowlegde: Node.js, Express.js, MongoDb, Google Cloud Functions, AWS Lambda/SQS/DynamoDB.
-- 🌱 Creative tools: Figma, Adobe XD, Illustrator, Photoshop, Cinema4d.
-- 💞️ I’m looking to collaborate on any software engineering projects
-- 📫 You can reach me @ pilotprecious@gmail.com or nemeremnewyork@gmail.com
-- My portfolio site - www.tinyurl.com/nemerem
+## 👋 Hi, I’m Chinemerem (aka nemerem-x)
+
+I'm a **Frontend / Full-Stack Software Engineer** passionate about building scalable, user-focused web applications and experimenting with modern tooling.
+
+---
+
+### 🧠 About Me
+- 💻 Strong focus on **modern frontend development**
+- ⚙️ Comfortable across **frontend, backend, and cloud**
+- 🤝 Open to collaborating on meaningful software engineering projects
+- 🚀 Enjoy building real products used by real people
+
+---
+
+### 🛠 Tech Stack
+
+**Frontend**
+- JavaScript, TypeScript  
+- React, Next.js  
+- React Query, Recoil  
+- Tailwind CSS, HTML5, CSS3  
+- Vite  
+
+**Backend / Cloud**
+- Node.js, Express.js  
+- MongoDB  
+- Firebase & Google Cloud Functions  
+- AWS (Lambda, SQS, DynamoDB)
+
+**Tools & Platforms**
+- Git, GitHub  
+- Figma  
+
+**Creative Tools**
+- Adobe XD, Illustrator, Photoshop  
+- Cinema 4D  
+
+---
+
+### 🚀 Live Projects
+- **[ColorFuse AI](https://colorfuseai.com)** — *10,000+ signups*
+- **PhotoRevive** — Open-source project with *2,000+ processed images*
+
+---
+
+### 📫 Get in Touch
+- ✉️ **Email:** pilotprecious@gmail.com  
+- ✉️ **Alt Email:** nemeremnewyork@gmail.com  
+- 🌐 **Portfolio:** https://tinyurl.com/nemerem
