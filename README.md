@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nemerem-x
 - 🌱 Tech Stack: JavaScript, TypeScript, React, Next.js, React Query, Tailwindcss, Firebase, Recoil, Github, Git, HTML5/CSS3, Vite.
-- 🌱 BE Stack: Node.js, Express.js, MongoDb, Google Cloud Functions.
+- 🌱 BE Knowlegde: Node.js, Express.js, MongoDb, Google Cloud Functions, AWS Lambda/SQS/DynamoDB.
 - 🌱 Creative tools: Figma, Adobe XD, Illustrator, Photoshop, Cinema4d.
 - 💞️ I’m looking to collaborate on any software engineering projects
 - 📫 You can reach me @ pilotprecious@gmail.com or nemeremnewyork@gmail.com
