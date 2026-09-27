@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Chinemerem (aka nemerem-x)
 
-I'm a **Frontend / Full-Stack Software Engineer** passionate about building scalable, user-focused web applications and leveraging **AI tools** to improve developer productivity and product quality.
+I'm a **Full-Stack Software & AI Engineer** passionate about building scalable, user-focused web applications and leveraging **AI tools** to improve developer productivity and product quality.
 
 ---
 
@@ -65,7 +65,7 @@ I'm a **Frontend / Full-Stack Software Engineer** passionate about building scal
 ### 📫 Get in Touch
 - ✉️ **Email:** pilotprecious@gmail.com  
 - ✉️ **Alt Email:** nemeremnewyork@gmail.com  
-- 🌐 **Portfolio:** https://tinyurl.com/nemerem
+- 🌐 **Portfolio:** https://nemerem.com
 
 ---
 
