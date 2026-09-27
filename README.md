@@ -1,11 +1,11 @@
-## 👋 Hi, I’m Chinemerem (aka nemerem-x)
+## 👋 Hi, I’m Chinemerem (aka nemerem)
 
 I'm a **Full-Stack Software & AI Engineer** passionate about building scalable, user-focused web applications and leveraging **AI tools** to improve developer productivity and product quality.
 
 ---
 
 ### 🧠 About Me
-- 💻 Frontend-focused with solid backend & cloud experience
+- 💻 Building https://feyther.com
 - ⚙️ Comfortable building and shipping real-world products
 - 🤖 Actively using AI tools in development workflows
 - 🤝 Open to collaborating on meaningful software engineering projects
